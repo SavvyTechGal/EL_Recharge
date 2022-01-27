@@ -1,0 +1,7 @@
+version: 1
+send_anonymous_usage_stats: true
+project_id: 64b5a23c-2a08-4e0c-a22e-94460513f618
+environments:
+- name: dev
+- name: test
+- name: prod
